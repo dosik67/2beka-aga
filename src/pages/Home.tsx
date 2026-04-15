@@ -257,7 +257,7 @@ export default function Home() {
             className="font-serif text-4xl md:text-6xl text-gold-gradient mb-6" 
           />
           <AnimatedText 
-            text="жылдық асына шақырамыз."
+            text="Еске алу асына шақырамыз."
             delay={0.8}
             className="font-serif text-3xl md:text-5xl text-[#d4af37]" 
           />
